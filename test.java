@@ -3,4 +3,4 @@ class Simple{
 		System.out.println("Hello Java");
 	}
 }
-12345
+123459
