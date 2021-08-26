@@ -1,5 +1,5 @@
 class Simple{
-	public tatic void main(String args[]){
+	publicvoid main(String args[]){
 		System.out.println("Hello Java");
 	}
 }
