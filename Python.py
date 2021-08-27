@@ -1,5 +1,4 @@
-ech 'hello world'
-123
+print("hello world")
 
 
 
