@@ -1,2 +1,2 @@
 
-prin('Hello World')
+print('Hello World')
